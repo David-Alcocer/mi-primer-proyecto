@@ -1,8 +1,8 @@
 # Mi nombre aquí
 
 ## Sobre mí
-- Carrera:
-- Semestre: Licenciatura en Ingenieria de Software
+- Carrera:Licenciatura en Ingenieria de Software
+- Semestre: 3er 
 - Una cosa que espero aprender hoy: Git and Github Desktop
 
 ## Mi frase favorita

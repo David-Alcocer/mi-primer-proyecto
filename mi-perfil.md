@@ -37,6 +37,6 @@ Hoy aprenderé a usar `git commit` por primera vez.
 
 ## Mis dudas hasta ahora
 
-1. 
+1. Hola Hola
 2. 
 3. 

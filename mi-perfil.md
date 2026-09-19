@@ -2,8 +2,8 @@
 
 ## Sobre mí
 - Carrera:
-- Semestre: Licenciatura de sOftwerae
-- Una cosa que espero aprender hoy:
+- Semestre: Licenciatura en Ingenieria de Software
+- Una cosa que espero aprender hoy:Git
 
 ## Mi frase favorita
 > Escribe aquí una frase que te guste.

@@ -3,10 +3,10 @@
 ## Sobre mí
 - Carrera:
 - Semestre: Licenciatura en Ingenieria de Software
-- Una cosa que espero aprender hoy:Git
+- Una cosa que espero aprender hoy: Git and Github Desktop
 
 ## Mi frase favorita
-> Escribe aquí una frase que te guste.
+> La Vida es Bella 
 
 ## Herramientas del curso
 

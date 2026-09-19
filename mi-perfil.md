@@ -25,12 +25,13 @@ Hoy aprenderé a usar `git commit` por primera vez.
 - [x] Hice mi primer commit
 - [x] Cree una rama nueva
 - [x] Hice un merge
-- [ ] Subí mi repo a GitHub
+- [x] Subí mi repo a GitHub
 - [ ] Mandé un Pull Request
 - [ ] Resolví un conflicto
 
 ## Voy hacer u push 
 
+## Hola Mundo v2.
 
 
 

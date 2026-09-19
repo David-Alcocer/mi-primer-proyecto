@@ -2,7 +2,7 @@
 
 ## Sobre mí
 - Carrera:
-- Semestre:
+- Semestre: Licenciatura de sOftwerae
 - Una cosa que espero aprender hoy:
 
 ## Mi frase favorita

@@ -22,9 +22,15 @@ Hoy aprenderé a usar `git commit` por primera vez.
 ## Mi progreso en el curso
 
 - [x] Cree mi primer repositorio
-- [ ] Hice mi primer commit
-- [ ] Cree una rama nueva
-- [ ] Hice un merge
+- [x] Hice mi primer commit
+- [x] Cree una rama nueva
+- [x] Hice un merge
 - [ ] Subí mi repo a GitHub
 - [ ] Mandé un Pull Request
 - [ ] Resolví un conflicto
+
+## Voy hacer u push 
+
+
+
+
